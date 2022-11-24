@@ -1,0 +1,16 @@
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+#image1{
+    width: 60%;
+}
+#header{
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
