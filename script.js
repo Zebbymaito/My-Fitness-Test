@@ -48,6 +48,3 @@ change8.addEventListener("click", (event) => {
     event.target.style.background = "yellow";
     event.target.style.color = "blue";
 });
-
-
-document.write("Script.js");
